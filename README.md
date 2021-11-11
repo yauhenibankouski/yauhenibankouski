@@ -11,8 +11,7 @@
 💞️ I’m looking to collaborate on ideas and problems brainstorming to see if they can be fixed together
 
 
-<h2>Tech Stack</h2> ⌨️
-
+<h2>Tech Stack</h2> 
 
 <h3>Learning</h3>
 
